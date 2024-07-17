@@ -1,13 +1,14 @@
 # Flask-member-system
 
-這是一個非常簡單的會員登入系統，使用Flask框架。
+這是一個非常簡單的會員登入系統，使用Flask框架及mongodb。
 
 ## 使用方法
 
-1. 克隆倉庫：`git clone https://github.com/enchu/flask-member-system.git`
-2. 安裝依賴項：`pip install -r requirements.txt`
-3. 運行程式：`python app.py`
-4. 訪問 `http://localhost:8080/
+1. 克隆倉庫：`git clone https://github.com/xAL6/flask-member-system.git`
+2. 安裝依賴項：`pip3 install -r requirements.txt`
+3. 替換app.py中的client = pymongo.MongoClient("<你的mongodb cluster uri>")
+4. 運行程式：`python app.py`
+5. 訪問 `http://localhost:8080/
 
 ## 執行畫面
 
