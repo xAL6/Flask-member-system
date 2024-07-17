@@ -6,7 +6,6 @@ print("資料庫連線成功")
 
 # 初始化Flask伺服器
 from flask import *
-from pymongo import MongoClient
 
 app = Flask(__name__,
             static_folder="static",
