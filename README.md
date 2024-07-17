@@ -12,18 +12,18 @@
 ## 執行畫面
 
 ### 登入頁面
-![alt text](image.png)
+![alt text](https://github.com/xAL6/Flask-member-system/blob/dc5f57fc7258335afd478b023c34dd0225ec05d5/img/image.png)
 
 ### 註冊頁面
-![alt text](image-1.png)
+![alt text](https://github.com/xAL6/Flask-member-system/blob/dc5f57fc7258335afd478b023c34dd0225ec05d5/img/image-1.png)
 
 ### 會員頁面
-![alt text](image-2.png)
+![alt text](https://github.com/xAL6/Flask-member-system/blob/dc5f57fc7258335afd478b023c34dd0225ec05d5/img/image-2.png)
 
 ### 錯誤頁面
-![alt text](image-3.png)
+![alt text](https://github.com/xAL6/Flask-member-system/blob/dc5f57fc7258335afd478b023c34dd0225ec05d5/img/image-3.png)
 
-![alt text](image-4.png)
+![alt text](https://github.com/xAL6/Flask-member-system/blob/dc5f57fc7258335afd478b023c34dd0225ec05d5/img/image-4.png)
 
 
 
