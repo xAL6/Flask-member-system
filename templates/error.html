@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block title %}錯誤{% endblock %}
+{% block content %}
+<div class="form-container">
+    <h2 class="form-title">發生錯誤</h2>
+    <p class="error-message">{{ message }}</p>
+    <div class="switch-link">
+        <p><a href="/" class="btn btn-primary">回首頁</a></p>
+    </div>
+</div>
+{% endblock %}

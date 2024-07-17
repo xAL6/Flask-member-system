@@ -1,0 +1,25 @@
+.form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px #000;
+    background-color: azure;
+    margin-top: 50px;
+}
+.form-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.switch-link {
+    text-align: center;
+    margin-top: 10px;
+}
+.success-message {
+    text-align: center;
+    color: green;
+}
+.error-message {
+    text-align: center;
+    color: red;
+}
