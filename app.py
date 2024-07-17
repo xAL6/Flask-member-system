@@ -1,11 +1,11 @@
 # 初始化資料庫連線
 import pymongo
-client = pymongo.MongoClient("mongodb+srv://root:HC12dP2v7kGfnFiF@cluster0.tasgks1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = pymongo.MongoClient("<你的mongodb cluster uri>")
 db=client.member_system
 print("資料庫連線成功")
 
 # 初始化Flask伺服器
-from flask import Flask, render_template, request, redirect, session, url_for, jsonify
+from flask import *
 from pymongo import MongoClient
 
 app = Flask(__name__,
